@@ -1,4 +1,4 @@
 # digital-nomad-child
 Child theme for Digital Nomad WordPress theme
 
-Place 'digital-nomad-child' to your WordPress installation theme folder `/wp-content/themes`.
+Place 'digital-nomad-child' the the theme folder of your WordPress installation under path `/wp-content/themes`.
