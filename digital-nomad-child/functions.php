@@ -11,7 +11,7 @@ function child_header_css() {
 add_action( 'wp_print_styles', 'child_header_css', 100 );
 
 /**
- * Adds Google policing
+ * Adds code for footer
  */
 function code_for_footer() {
 
